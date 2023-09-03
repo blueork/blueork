@@ -9,8 +9,10 @@
 
 - ⚡ Fun fact **I think I have a good taste in music**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center"> 
+<a href="https://github.com/saleha-muzammil" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
