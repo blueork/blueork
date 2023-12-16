@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueork](https://github.com/blueork)
 
-- 💬 Ask me about **C, C++, HTML, CSS, git, MATLAB**
+- 💬 Ask me about **C, C++, HTML, CSS, git, MATLAB, x86 Assembly Language**
 
 - ⚡ Fun fact **I am a Professional Procrastinator**
 
