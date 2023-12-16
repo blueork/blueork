@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blue Ork</h1>
-<h3 align="center">An amateur Coder and Web Developer</h3>
+<h3 align="center">An Amateur Coder and Web Developer</h3>
 
 - 🌱 I’m currently learning **Data Structures**
 
