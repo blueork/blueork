@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Blue Ork</h1>
 <h3 align="center">An Amateur Coder and Web Developer</h3>
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently **Drowning in Coffee and Dredging for Summer Break**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueork](https://github.com/blueork)
 
-- 💬 Ask me about **C, C++, HTML, CSS, git, MATLAB, x86 Assembly Language**
+- 💬 Ask me about **C, C++, SQL, HTML, CSS, git, MATLAB, x86 Assembly Language**
 
 - ⚡ Fun fact **I am a Professional Procrastinator**
 
