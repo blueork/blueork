@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Blue Ork</h1>
-<h3 align="center">An Amateur Coder and Web Developer</h3>
+<h3 align="center">An Amateur Coder and Developer</h3>
 
-- 🌱 I’m currently **Learning Computer Networks and JavaScript**
+- 🌱 I’m currently **Learning Artificial Intelligence and Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueork](https://github.com/blueork)
 
-- 💬 Ask me about **C, C++, SQL, HTML, CSS**
+- 💬 Ask me about **C, C++, SQL, Java, AI**
 
 - ⚡ Fun fact **I like to pretend that I read books**
 
