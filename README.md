@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Blue Ork</h1>
 <h3 align="center">An Amateur Coder and Developer</h3>
 
-- 🌱 I’m currently **Learning Artificial Intelligence and Android Development**
+- 🌱 I’m currently **working on building AI Agents using LangChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueork](https://github.com/blueork)
 
-- 💬 Ask me about **C, C++, SQL, Java, AI**
+- 💬 Ask me about **C++, SQL, Java, AI, Python, AI Agents, LangChain, LangGraph**
 
 - ⚡ Fun fact **I like to pretend that I read books**
 
