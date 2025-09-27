@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Blue Ork</h1>
 <h3 align="center">An Amateur Coder and Developer</h3>
 
-- 🌱 I’m currently **working on building AI Agents using LangChain**
+- 🌱 I’m currently **trying to publish an Application to Google Play Store**
+- :books: I'am currently **trying to learn Generative AI and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueork](https://github.com/blueork)
 
